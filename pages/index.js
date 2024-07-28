@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>This is my first website with Next.js</h1>
+    return <h1>Oi mãe, queria te lembrar que amo você! &#9825</h1>
 }
 
-export default Home;
+export default Home; 
